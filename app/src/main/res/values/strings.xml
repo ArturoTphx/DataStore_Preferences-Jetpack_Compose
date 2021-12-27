@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DataStorePreferences</string>
+    <string name="name_hint">Nombre</string>
+    <string name="last_name_one_hint">Primer apellido</string>
+    <string name="last_name_two_hint">Segundo apellido</string>
+    <string name="save">¡Guardar!</string>
+    <string name="error">Error</string>
+    <string name="database_empty">Nada guardado en DataStore</string>
+    <string name="accept_option">Aceptar</string>
+    <string name="cancel_option">Cancelar</string>
+    <string name="empty_fields">Campos vacíos</string>
+    <string name="name_error">Escriba su nombre sin espacios, números o caracteres especiales</string>
+    <string name="last_name_error">Escriba sus apellidos sin espacios, números o caracteres especiales</string>
+    <string name="attention">Atención</string>
+    <string name="success">Sus datos han sido guardados</string>
+    <string name="clean_success">Sus datos han sido eliminados</string>
+    <string name="clean">Limpiar preferencias</string>
+    <string name="question">¿Desea eliminar sus datos?</string>
+</resources>
